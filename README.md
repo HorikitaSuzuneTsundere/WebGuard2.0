@@ -17,10 +17,24 @@
 | ![image](https://github.com/HorikitaSuzuneTsundere/WebGuard2.0/assets/80136683/b8feeba2-7783-4c7d-9157-f265ba762f14) | ![image](https://github.com/HorikitaSuzuneTsundere/WebGuard2.0/assets/80136683/a36f6147-4796-4c04-989c-f9500675aeec) |
 
 ### 📋 Details
-- Latest version: 1.5
+- Latest version: 2.0
 - Released: April 10, 2023
 ### 🛠️ Tools Used
 - Replit | Thank you for providing a wonderful platform that makes coding and collaborating with others so easy and enjoyable!
 - Firebase | Thank you Firebase for the great database service!
 ### 🙏 Credits
 - https://www.kaggle.com/sid321axn - Manu Siddhartha for providing Malicious URLs dataset
+### 🚀 Future Deployments and Fixes
+Here's a glimpse of what's in the pipeline for WebGuard:
+Enhancing Security with VirusTotal API:
+- Integration of VirusTotal API to broaden threat detection capabilities.
+- Scan URLs against a vast database of malware samples and threat intelligence for more comprehensive assessments.
+Resolving Issue with Reporting Malicious URLs:
+- Addressing the bug that prevented users from reporting malicious URLs.
+- Ensuring smooth reporting functionality to swiftly flag potential threats.
+Improving User Experience:
+- Refreshing the UI with a focus on intuitiveness and clarity.
+- Streamlining navigation and interactions for a seamless user journey.
+- Enhancing visual appeal for a more engaging experience.
+Stay Updated:
+- Contribute to the development by suggesting improvements or reporting issues. Help us make WebGuard an even more robust and user-friendly tool for online safety!
