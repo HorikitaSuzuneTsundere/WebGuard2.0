@@ -12,7 +12,10 @@
 ### 🖥️ Source Code
 - https://webguard.horikitasuzune.repl.co/
 ### 📷 Screenshots
-- https://github.com/HorikitaSuzuneTsundere/WebGuard/blob/main/Screenshots.md
+| ![image](https://github.com/HorikitaSuzuneTsundere/WebGuard2.0/assets/80136683/ca36b967-7139-45a9-9824-a7107a0c6d4b) | ![image](https://github.com/HorikitaSuzuneTsundere/WebGuard2.0/assets/80136683/a4f9dd56-a9e6-4107-aad1-c59585751548) |
+--- | ---
+| ![image](https://github.com/HorikitaSuzuneTsundere/WebGuard2.0/assets/80136683/b8feeba2-7783-4c7d-9157-f265ba762f14) | ![image](https://github.com/HorikitaSuzuneTsundere/WebGuard2.0/assets/80136683/a36f6147-4796-4c04-989c-f9500675aeec) |
+
 ### 📋 Details
 - Latest version: 1.5
 - Released: April 10, 2023
