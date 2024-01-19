@@ -25,6 +25,7 @@
 ### 🙏 Credits
 - https://www.kaggle.com/sid321axn - Manu Siddhartha for providing Malicious URLs dataset
 ### 🚀 Future Deployments and Fixes
+
 Here's a glimpse of what's in the pipeline for WebGuard:
 
 Enhancing Security with VirusTotal API:
