@@ -26,6 +26,7 @@
 - https://www.kaggle.com/sid321axn - Manu Siddhartha for providing Malicious URLs dataset
 ### 🚀 Future Deployments and Fixes
 Here's a glimpse of what's in the pipeline for WebGuard:
+
 Enhancing Security with VirusTotal API:
 - Integration of VirusTotal API to broaden threat detection capabilities.
 - Scan URLs against a vast database of malware samples and threat intelligence for more comprehensive assessments.
